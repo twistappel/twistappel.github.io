@@ -18,11 +18,11 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: twistappel
+title: test
 email: dionemaddern@libreoffice.org
 description: >- # this means to ignore newlines until "baseurl:"
 
-baseurl: "/_posts" # the subpath of your site, e.g. /blog
+baseurl: "/bundle" # the subpath of your site, e.g. /blog
 url: "https://twistappel.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  twistappel
