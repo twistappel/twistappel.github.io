@@ -26,7 +26,7 @@ name: Twistappel
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  These are my stories
+    These are my stories
 # Build settings
 
 # If you clone the Minima repo and build locally, use this setting.
