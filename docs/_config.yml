@@ -7,6 +7,8 @@ name: twistappel
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
   blog
+bio: >
+  I’m a Linux noob with no background in software development who somehow got involved in a FOSS project. These are my stories.
 
 # Build settings
 
