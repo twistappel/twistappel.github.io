@@ -116,8 +116,8 @@ $dm-text-color:            #e1e1ea !default;
 $dm-background-color:      #1e1e26 !default;
 $dm-code-background-color: lighten($dm-background-color, 5%) !default;
 
-$dm-link-base-color:       #ffad4a !default;
-$dm-link-visited-color:    #ff8b00 !default;
+$dm-link-base-color:       #d2a577 !default;
+$dm-link-visited-color:    $dm-link-base-color !default;
 $dm-link-hover-color:      #a54aff !default;
 
 $dm-border-color-01:       $dm-brand-color-dark !default;
