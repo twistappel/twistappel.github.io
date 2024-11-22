@@ -14,6 +14,9 @@ $lm-brand-color:           #ffad4a !default;
 $lm-brand-color-light:     lighten($lm-brand-color, 40%) !default;
 $lm-brand-color-dark:      darken($lm-brand-color, 25%) !default;
 
+$lm-accent-color-01:       #d27777 !default;
+$lm-accent-color-02:       #8787ab !default;
+
 $lm-site-title-color:      $lm-brand-color-dark !default;
 
 $lm-text-color:            #15151e !default;
@@ -217,6 +220,9 @@ $brand-color: $lm-brand-color;
 $brand-color-light: $lm-brand-color-light;
 $brand-color-dark: $lm-brand-color-dark;
 
+$accent-color-01: $lm-accent-color-01;
+$accent-color-02: $lm-accent-color-02;
+
 $site-title-color: $lm-site-title-color;
 
 $text-color: $lm-text-color;
@@ -246,6 +252,9 @@ $table-border-color: $lm-table-border-color;
     --minima-brand-color: #{$lm-brand-color};
     --minima-brand-color-light: #{$lm-brand-color-light};
     --minima-brand-color-dark: #{$lm-brand-color-dark};
+
+    --minima-accent-color-01: #{lm-accent-color01};
+    --minima-accent-color-02: #{lm-accent-color02};
 
     --minima-site-title-color: #{$lm-site-title-color};
 
@@ -278,6 +287,9 @@ $table-border-color: $lm-table-border-color;
 
       --minima-site-title-color: #{$dm-site-title-color};
 
+      --minima-accent-color-01: #{dm-accent-color01};
+      --minima-accent-color-02: #{dm-accent-color02};
+
       --minima-text-color: #{$dm-text-color};
       --minima-background-color: #{$dm-background-color};
       --minima-code-background-color: #{$dm-code-background-color};
@@ -303,6 +315,9 @@ $table-border-color: $lm-table-border-color;
   $brand-color: var(--minima-brand-color);
   $brand-color-light: var(--minima-brand-color-light);
   $brand-color-dark: var(--minima-brand-color-dark);
+
+  $accent-color-01: var(--minima-accent-color-01);
+  $accent-color-02: var(--minima-accent-color-02);
 
   $site-title-color: var(--minima-site-title-color);
 
