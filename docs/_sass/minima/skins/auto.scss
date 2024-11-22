@@ -116,16 +116,16 @@ $dm-accent-color-02:       #8787ab !default;
 $dm-site-title-color:      $dm-accent-color-01 !default;
 
 $dm-background-color:      #1e1e26 !default;
-$dm-text-color:            lighten($dm-background-color, 40%) !default;
-$dm-code-background-color: lighten($dm-background-color, 5%) !default;
+$dm-text-color:            lighten($dm-background-color, 45%) !default;
+$dm-code-background-color: lighten($dm-background-color, 4%) !default;
 
 $dm-link-base-color:       #d2a577 !default;
 $dm-link-visited-color:    $dm-link-base-color !default;
 $dm-link-hover-color:      #a577d2 !default;
 
 $dm-border-color-01:       $dm-accent-color-02 !default;
-$dm-border-color-02:       $dm-brand-color !default;
-$dm-border-color-03:       $dm-accent-color-01 !default;
+$dm-border-color-02:       $dm-accent-color-01 !default;
+$dm-border-color-03:       $dm-brand-color !default;
 
 $dm-table-text-color:      $dm-text-color !default;
 $dm-table-zebra-color:     lighten($dm-background-color, 4%) !default;
