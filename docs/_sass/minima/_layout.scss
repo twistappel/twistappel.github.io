@@ -14,8 +14,8 @@
 .site-title {
   @include relative-font-size(1.625);
   font-family: $title-font-family;
-  font-weight: 400;
-  //letter-spacing: -1px;
+  //font-weight: 400;
+  letter-spacing: -1px;
   margin-bottom: 0;
   float: left;
 
