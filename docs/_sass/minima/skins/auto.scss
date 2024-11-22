@@ -113,9 +113,9 @@ $dm-brand-color-dark:      darken($dm-brand-color, 35%) !default;
 $dm-accent-color-01:       #d27777 !default;
 $dm-accent-color-02:       #8787ab !default;
 
-$dm-site-title-color:      $dm-brand-color-01 !default;
+$dm-site-title-color:      $dm-accent-color-01 !default;
 
-$dm-text-color:            #e1e1ea !default;
+$dm-text-color:            lighten($dm-brand-color, 50%) !default;
 $dm-background-color:      #1e1e26 !default;
 $dm-code-background-color: lighten($dm-background-color, 5%) !default;
 
