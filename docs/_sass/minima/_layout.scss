@@ -145,7 +145,7 @@
 .footer-col-wrapper,
 .social-links {
   @include relative-font-size(0.9375);
-  color: $accent-color-02
+  color: $brand-color-dark;
 }
 
 .footer-col {
@@ -226,7 +226,7 @@
 .post-meta {
   font-family: $code-font-family;
   font-size: $small-font-size;
-  color: $accent-color-01;
+  color: $brand-color-light;
 }
 
 .post-link {
