@@ -28,7 +28,7 @@ $lm-link-visited-color:    $lm-link-base-color !default;
 $lm-link-hover-color:      #a577d2 !default;
 
 $lm-border-color-01:       $lm-brand-color-light !default;
-$lm-border-color-02:       darken($lm-backgroun-color, 35%) !default;
+$lm-border-color-02:       darken($lm-background-color, 35%) !default;
 $lm-border-color-03:       $lm-brand-color-dark !default;
 
 $lm-table-text-color:      lighten($lm-text-color, 18%) !default;
