@@ -126,6 +126,7 @@ a {
 
   .social-media-list &:hover {
     text-decoration: none;
+    color: $link-hover-color;
 
     .username {
       text-decoration: none;
