@@ -22,7 +22,7 @@ So I did what any sane human being would do:
 4. Installed Pop_OS, Proton GE, Inkscape, and Krita.
 5. Lived happily ever after.
 
-It probably sounds like a ludicrously trivial thing [to do one's 'nana](https://www.collinsdictionary.com/us/dictionary/english/do-ones-nana) over, and I did admittedly find a workaround that allowed me to force the system to reposition my taskbar (reports from people still living in the "Old Country" suggest that these no longer work), but it really rankled. I felt like over the last few years, Microsoft had been steadily taking away more and more features while charging me more and more for a product that increasingly didn't meet my needs.
+It probably sounds like a ludicrously trivial thing [to do one's 'nana](https://www.collinsdictionary.com/us/dictionary/english/do-ones-nana) over, and I did admittedly find a workaround that allowed me to force the system to reposition my taskbar (reports from people still living in the "Old Country" suggest that this no longer works), but it really rankled. I felt like over the last few years, Microsoft had been steadily taking away more and more features while charging me more and more for a product that increasingly didn't meet my needs.
 
 The hundreds of dollars in subscription fees that it saved me was just a nice bonus.
 
